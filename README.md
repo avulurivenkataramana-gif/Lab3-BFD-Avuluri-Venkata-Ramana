@@ -59,7 +59,7 @@ Lab3-BFD/
 
 ## 5. Live Deployment
 
-**Live Application:** [Open Live Application](YOUR_DEPLOYMENT_URL)
+**Live Application:** [https://lab3-bfd-avuluri-venkata-ramana-2.onrender.com](YOUR_DEPLOYMENT_URL)
 
 > Replace the placeholder links with your actual URLs after creating the GitHub repository and deploying the application. If you have not deployed it, remove this section temporarily.
 
