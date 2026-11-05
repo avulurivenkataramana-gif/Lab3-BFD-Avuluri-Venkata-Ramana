@@ -55,7 +55,7 @@ Lab3-BFD/
 
 ## 4. GitHub Repository
 
-**GitHub Repository:** [Open GitHub Repository](YOUR_GITHUB_URL)
+**GitHub Repository:** [Open GitHub Repository](https://github.com/avulurivenkataramana-gif/Lab3-BFD-Avuluri-Venkata-Ramana)
 
 ## 5. Live Deployment
 
